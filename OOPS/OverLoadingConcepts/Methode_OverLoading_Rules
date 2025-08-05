@@ -1,0 +1,21 @@
+Method Over Loading
+    A class which has more then one methode with same name with different methode
+signature (or) different arguments is known as overloading.
+Rules:
+    In methode overloading methode resolution is always takes care by compiler based on
+reference type.
+    ex: Object obj = new String();
+        obj.m1() -> always calls methode m1 in Object class rather then calling String
+    Class methode.
+Edge Cases:
+    1.Auto Promotion case
+        In overloading if exact match not available then compiler will auto promote the
+    parameter to next type and checks for matching methode until all possible promotion.
+    If there is no matching methode then only the Compiler raise the error.
+
+    2.In the case methode with co-variant argument type always methode with child class
+    argument will be execute.
+
+    3.In the case var-arg methode as overloaded methode then exact match methode will get
+    High priority. var-arg methode will get least priority.
+
