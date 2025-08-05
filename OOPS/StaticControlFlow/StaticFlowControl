@@ -1,0 +1,12 @@
+Static Flow Control
+    Execution static members of the class follows certain rules
+    1.Identification of static members from top to bottom
+    2.Assignment and execution of static variables and static block from top to bottom
+    3.execution of main
+Static flow control in parent class is same of normal class
+Static flow control in child class
+    1.Identification of static members from parent to child
+    2.Assignment and execution of static variables and static block from parent to child
+    3.execution of child class main
+
+
