@@ -1,6 +1,8 @@
 Method Over Loading
     A class which has more then one methode with same name with different methode
 signature (or) different arguments is known as overloading.
+    Methode signature need to be different.
+    Compile time  polymorphism (or) Static polymorphism.
 Rules:
     In methode overloading methode resolution is always takes care by compiler based on
 reference type.

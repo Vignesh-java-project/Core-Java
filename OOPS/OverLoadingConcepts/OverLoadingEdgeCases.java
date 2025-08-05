@@ -36,6 +36,6 @@ public class OverLoadingEdgeCases {
         m3(); /* no exact match so var-arg will get chance */
         m3(10.00,1.24); /* no exact match so var-arg will get chance */
         m3(1.24); /* exact match will get more priority then var-arg methode */
-        
+
     }
 }

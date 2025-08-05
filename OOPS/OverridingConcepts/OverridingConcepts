@@ -1,0 +1,22 @@
+Overriding
+    child class to provide a specific implementation of a method that is already
+defined in its parent class.
+    Methode signature need to be same.
+    Runtime polymorphism (or) dynamic polymorphism.
+
+Rules:
+    In overriding methode resolution is always takes care by JVM based on
+run time object instead of reference class.
+        ex:
+            Object obj = new String();
+                obj.m1() -> always calls methode m1 in String class rather then calling
+            m1 in object class Class methode.
+
+Edge cases:
+    1.Return type need to same or co-variant return types are allowed
+    2.We can't reduce scope of access modifier in overridden methode. If need we can
+    increase the scope in overridden method.
+    3.If overriding methode throws checked exception then overridden methode should throw
+    same or it's parent exception.
+    4.But not same in un checked exception
+    5.final methode can't be overridden.
