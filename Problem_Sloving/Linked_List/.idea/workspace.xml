@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="bb3ff371-ea1a-4d82-a916-d0f3aee79da3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Projects/Servlet/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/Servlet/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/Servlet/.idea/easycode.ignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/Servlet/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/Servlet/src/main/java/com/vikee/AddServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/Servlet/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Projects/Servlet/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projects/QuizApp_Spring/src/main/java/com/quizApp/controller/QuestionController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projects/QuizApp_Spring/src/main/java/com/quizApp/model/Question.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projects/QuizApp_Spring/src/main/java/com/quizApp/repository/QuestionRepo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Projects/QuizApp_Spring/src/main/java/com/quizApp/service/QuestionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LL_CRUD.java" beforeDir="false" afterPath="$PROJECT_DIR$/LL_CRUD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +16,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="36CcJR1FL21ccizqI91rmTjAR6W" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,6 +31,10 @@
     "git-widget-placeholder": "feature/projects__QuizApp__CoreJava",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Repository/Core-Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -58,6 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1764513921431</updated>
       <workItem from="1764513922599" duration="18000" />
+      <workItem from="1764516301628" duration="3180000" />
     </task>
     <servers />
   </component>
