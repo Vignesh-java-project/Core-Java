@@ -70,7 +70,7 @@ class DLL {
         if (temp.next != null) {
             temp.next.prev = node;
         } else {
-            tail = node;  
+            tail = node;
         }
         temp.next = node;
     }
